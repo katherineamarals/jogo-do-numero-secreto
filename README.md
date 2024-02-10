@@ -1,9 +1,11 @@
-✨ Jogo do Número Secreto
+# ✨ Jogo do Número Secreto
+
 Projeto desenvolvido no curso de Lógica de Programação disponibilizado pela #Alura no programa #ONE (Oracle Next Education).
 
-🚀 Tecnologias
+# 🚀 Tecnologias
+
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-HTML 
-CSS 
-JavaScript
+  ●  HTML  
+  ●  CSS  
+  ● JAVASCRIPT   
